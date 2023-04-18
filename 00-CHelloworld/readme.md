@@ -1,5 +1,5 @@
 # 00-CHelloworld
-## namename (Equipo Numero x)
+## namename (Equipo Numero 4)
 ### Autores
 Rattay, Federico (203.991-6)
 https://github.com/FedericoRattayFRBAUTN
