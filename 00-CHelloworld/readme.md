@@ -1,6 +1,6 @@
 # 00-CHelloworld
-## namename (Equipo Numero 4)
-### Autores
+## Equipo Numero 4
+### Autor
 Rattay, Federico (203.991-6)
 https://github.com/FedericoRattayFRBAUTN
 
